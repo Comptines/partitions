@@ -7,7 +7,7 @@
 harmonies = \chordmode {
   d1 a2 d
   d2 d:7 g d
-  b2:m f:m g4 a d2
+  b2:m fis:m g4 a d2
 }
 
 % \transpose d e
