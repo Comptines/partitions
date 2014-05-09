@@ -19,5 +19,5 @@
 
 \header {
   copyright = "Partition transcrite par Julien Chauveau"
-  tagline = "© 2013 Comptines.TV :: Comptines et chansons pour enfants"
+  tagline = "© 2014 Comptines.TV :: Comptines et chansons pour enfants"
 }
