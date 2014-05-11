@@ -1,6 +1,6 @@
 \include "predefined-guitar-fretboards.ly"
 
-\version "2.16.2"
+\version "2.18.2"
 
 \pointAndClickOff   % Remove hyperlinks in PDF
 
