@@ -20,7 +20,7 @@ harmonies = \chordmode {
   {
     \clef treble
     \time 4/4
-    \tempo 4 = 100~140
+    \tempo 4 = 100-140
     \key c \major
 
     g4. g8 a g fis g e8 g g g g2
